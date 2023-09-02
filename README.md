@@ -22,6 +22,6 @@ Hello, im Oyuncaz 👋
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kerimbeys&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Oyuncaz&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with Oyuncaz -->
